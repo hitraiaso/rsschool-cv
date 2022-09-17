@@ -7,7 +7,7 @@
 * **[Github](https://github.com/hitraiaso)**
 * **Discord**: @hitraia_so
 * ***
-###### ** About me**
+###### **About me**
 I am an energetic, ambitious person who has developed a responsible approach to any task that I undertake. I am highly motivated and eager to learn new technologies.
 ###### **Skills**
 * Teamwork
@@ -18,7 +18,7 @@ I am an energetic, ambitious person who has developed a responsible approach to 
 * Excellent interpersonal skills
 * ****
 ###### **Courses**
-* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+* RS Schools Course «JavaScript/Front-end. Stage 0»
 ****
 ###### **Code example**
 ```
@@ -32,4 +32,3 @@ int multiply(int a, int b)
 ###### **Languages**
 * **English** : C1
 * **Russian** : Native
-/*** 
